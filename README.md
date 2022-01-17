@@ -23,4 +23,4 @@ PLACE = "TAMILNADU"
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=214,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=fff)
