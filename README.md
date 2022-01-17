@@ -28,7 +28,8 @@ PLACE = "TAMILNADU"
 
 ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
-*Visitors Count*
-![VisitorCount](https://profile-counter.glitch.me/{jamelsingh}/count.svg)
+<p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="mofazil17" /></p>
 
+
+![VisitorCount]("align="center" scr="https://profile-counter.glitch.me/{jamelsingh}/count.svg")
 
