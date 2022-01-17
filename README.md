@@ -13,6 +13,8 @@ PLACE = "TAMILNADU"
 ```
 
 [![GitHub Jamelsingh](https://img.shields.io/github/followers/jamelsingh?label=follow&style=social)](https://github.com/jamelsingh)
+<a href="https://github.com/jamelsingh/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jamelsingh"></a>
 
 ## 📊 My Github Stats
    <br/> <a href="https://github.com/jamelsingh/github-readme-stats"><img alt="jamelsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jamelsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D2117" /></a>
