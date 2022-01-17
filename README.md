@@ -27,4 +27,4 @@ PLACE = "TAMILNADU"
 
 ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&" alt="jamelsingh" /></p>
