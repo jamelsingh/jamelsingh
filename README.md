@@ -15,6 +15,9 @@ PLACE = "TAMILNADU"
 [![GitHub Jamelsingh](https://img.shields.io/github/followers/jamelsingh?label=follow&style=social)](https://github.com/jamelsingh)
 <a href="https://github.com/jamelsingh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jamelsingh"></a>
+    <img src="https://profile-counter.glitch.me/{jamelsingh}/count.svg"></a>
+
+
 
 ## 📊 My Github Stats
    <br/><a href="https://github.com/jamelsingh/github-readme-stats"><img alt="jamelsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jamelsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D2117" /></a>
@@ -25,7 +28,7 @@ PLACE = "TAMILNADU"
 
 ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
-*Visitors Count**  
+*Visitors Count*
 ![VisitorCount](https://profile-counter.glitch.me/{jamelsingh}/count.svg)
 
 
