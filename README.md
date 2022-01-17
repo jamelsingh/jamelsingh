@@ -5,7 +5,7 @@
 
 
 ```python
-Name = "༺JAMEL SINGᎻ༻"
+Name = "JAMEL SINGᎻ"
 Who I Am = "IAM NOT A DEVELOPER😁"
 Age = "90's kids"
 Country = "INDIA"
