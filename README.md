@@ -25,11 +25,6 @@ PLACE = "TAMILNADU"
          <a href="https://github.com/jamelsingh/github-readme-activity-graph"><img alt="Jamelsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamelsingh&bg_color=0D2117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
 
-
-
-
-## My Github Status 🦸
-
 ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
 
