@@ -13,3 +13,6 @@ PLACE = "TAMILNADU"
 ```
 
 [![GitHub Jamelsingh](https://img.shields.io/github/followers/jamelsingh?label=follow&style=social)](https://github.com/jamelsingh)
+<a href="https://github.com/jamelsingh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamelsingh&theme=red&hide_langs_below=1" />
+</a>
