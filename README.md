@@ -17,5 +17,5 @@ PLACE = "TAMILNADU"
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamelsingh&theme=red&hide_langs_below=1" />
 </a>
 ## 📊 My Github Stats
-    <a href="https://github.com/jamelsingh/github-readme-stats"><img alt="jamelsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jamelsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <br/> <a href="https://github.com/jamelsingh/github-readme-stats"><img alt="jamelsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jamelsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a
