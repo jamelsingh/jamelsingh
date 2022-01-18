@@ -14,7 +14,7 @@ PLACE = "TAMILNADU"
 [![GitHub Jamelsingh](https://img.shields.io/github/followers/jamelsingh?label=follow&style=social)](https://github.com/jamelsingh)
 <a href="https://github.com/jamelsingh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jamelsingh"></a>
-    <img src="https://profile-counter.glitch.me/{jamelsingh}/count.svg"></a>
+  
 
 
 
