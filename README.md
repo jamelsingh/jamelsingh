@@ -3,6 +3,8 @@
 <h1 align="center">HELLO<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px">I'm JAMELSIΝᏀᎻ</h1>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=WELCOME+TO+MY+PROFILE;Iam+JAMELSINGH;Iam+not+a+programer;From+INDIA+TN)](https://git.io/typing-svg)
+
 ```python
 Name = "JAMEL SINGᎻ"
 Who I Am = "IAM NOT A DEVELOPER"
