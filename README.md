@@ -28,3 +28,7 @@ PLACE = "TAMILNADU"
 
 <p style="margin:10px;" align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg" alt="jamelsingh"theme=chartreuse-dark"/></p>
 
+
+
+
+## <div align="center"><samp>❤️ Show by [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
