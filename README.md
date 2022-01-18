@@ -29,10 +29,10 @@ PLACE = "TAMILNADU"
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
 
 
-📞Contact me📱
+## 📱Contact me
 
 <h1 align="left">
-<a href="https://instagram.com/jamel_singh"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="70" height="70"</a>
+<a href="https://instagram.com/jamel_singh"><img src="https://media.giphy.com/media/FoiGAGD7Upyarq1u1k/giphy.gif"width="70" height="70"</a>
 <a href="https://t.me/JAMELSINGH"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="70" height="70"</a>
 <a href="https://mobile.twitter.com/kjamelsingh"><img src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif"width="80" height="80"</a>
 
