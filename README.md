@@ -24,11 +24,12 @@ PLACE = "TAMILNADU"
          <a href="https://github.com/jamelsingh/github-readme-activity-graph"><img alt="Jamelsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamelsingh&bg_color=0D2117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
 
+
 ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
-<p style="margin:10px;" align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg" alt="jamelsingh"theme=chartreuse-dark"/></p>
+<p align="center"> Visitor Count </br><style="margin:10px;" align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg" alt="jamelsingh"theme=chartreuse-dark"/></p>
 
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sjai37ozrfvr4mgmkafk5tv3uy&cover_image=true&theme=novatorem">
 
-
-
-## <div align="center"><samp>❤️ Show by [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
+## <div align="center"><samp> MY [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
