@@ -27,6 +27,14 @@ PLACE = "TAMILNADU"
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
 
 
+📞Contact me📱
+
+<h1 align="left">
+<a href="https://instagram.com/jamel_singh"><img src="https://media.giphy.com/media/DlF6lRX90K4eNXl1Ky/giphy.gif"width="70" height="70"</a>
+<a href="https://t.me/JAMELSINGH"><img src="https://media.giphy.com/media/q7MQP6mA2W91Yqf9pv/giphy.gif"width="70" height="70"</a>
+<a href="https://mobile.twitter.com/kjamelsingh"><img src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif"width="80" height="80"</a>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
 <p align="center"> Visitor Count </br><style="margin:10px;" align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg" alt="jamelsingh"theme=chartreuse-dark"/></p>
