@@ -2,8 +2,8 @@
 <h3 align="center">WELCOME TO MY PROFILE.</h3>
 
  
-<h1 align="left"><img src="https://media.giphy.com/media/Yi8MknjPjvh5Q0rtZz/giphy.gif"width="60" height="60">
-<align="center">HELLO<img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif"width="50px">I'm JAMELSIΝᏀᎻ</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/Yi8MknjPjvh5Q0rtZz/giphy.gif"width="50" height="50">
+<align="center">HELLO<img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif"width="50" height="60">I'm JAMELSIΝᏀᎻ</h1>
 
 
 
