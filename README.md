@@ -1,6 +1,10 @@
 
 <h3 align="center">WELCOME TO MY PROFILE.</h3>
-<h1 align="center">HELLO<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px">I'm JAMELSIΝᏀᎻ</h1>
+
+ 
+<h1 align="left"><img src="https://media.giphy.com/media/Yi8MknjPjvh5Q0rtZz/giphy.gif"width="60" height="60">
+<align="center">HELLO<img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif"width="50px">I'm JAMELSIΝᏀᎻ</h1>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=WELCOME+TO+MY+PROFILE;Iam+JAMELSINGH;Iam+not+a+programer;From+INDIA+TN)](https://git.io/typing-svg)
