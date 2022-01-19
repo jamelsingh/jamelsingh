@@ -29,7 +29,7 @@ PLACE = "TAMILNADU"
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
          <a href="https://github.com/jamelsingh/github-readme-activity-graph"><img alt="Jamelsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamelsingh&bg_color=0D2117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
          <div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamelsingh&theme=solarized_dark" alt="jamelsingh" /></p>
-
+         <p align="center"><a href="https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=LtmIcADjQPqtXyCzQd1k2A"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
 
 
 ## 📱Contact me
@@ -43,6 +43,3 @@ PLACE = "TAMILNADU"
 <h1 align="center"> Visitor Count </br><style="margin:10px;"align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg"alt="jamelsingh"theme=chartreuse-dark"/></h3>
 
 ## <div align="center"><samp> MY [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=LtmIcADjQPqtXyCzQd1k2A"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
