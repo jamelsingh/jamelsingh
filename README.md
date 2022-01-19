@@ -26,8 +26,8 @@ PLACE = "TAMILNADU"
 ## 📊 My Github Stats
    <br/><a href="https://github.com/jamelsingh/github-readme-stats"><img alt="jamelsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jamelsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D2117" /></a>
          <a href="https://github.com/jamelsingh/github-readme-stats"><img alt="Jamelsingh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamelsingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D2117" /></a>
-         <a href="https://github.com/jamelsingh/github-readme-activity-graph"><img alt="Jamelsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamelsingh&bg_color=0D2117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
+         <a href="https://github.com/jamelsingh/github-readme-activity-graph"><img alt="Jamelsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamelsingh&bg_color=0D2117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
          <div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamelsingh&theme=solarized_dark" alt="jamelsingh" /></p>
 
 
