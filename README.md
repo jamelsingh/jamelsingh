@@ -30,6 +30,10 @@ PLACE = "TAMILNADU"
          <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsingh&theme=chartreuse-dark" alt="jamelsingh" /></p>
          ![](https://github-readme-stats.vercel.app/api?username=jamelsingh&show_icons=true&bg_color=114,fc00ff,00dbde&title_color=fff&text_color=00fff)
 
+      <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivmost&theme=solarized_dark" alt="vivmost stats" /></p>
+    <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivmost&theme=solarized_dark" alt="vivmost stats" /></p>
+
+
 ## 📱Contact me
 
 <h1 align="left">
