@@ -42,9 +42,6 @@ PLACE = "TAMILNADU"
 
 <h1 align="center"> Visitor Count </br><style="margin:10px;"align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg"alt="jamelsingh"theme=chartreuse-dark"/></h3>
 
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sjai37ozrfvr4mgmkafk5tv3uy&cover_image=true&theme=novatorem">
-
 ## <div align="center"><samp> MY [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
 
 <p align="center">
