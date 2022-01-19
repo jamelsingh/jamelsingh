@@ -46,3 +46,6 @@ PLACE = "TAMILNADU"
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sjai37ozrfvr4mgmkafk5tv3uy&cover_image=true&theme=novatorem">
 
 ## <div align="center"><samp> MY [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/1227273073"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
