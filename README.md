@@ -38,7 +38,7 @@ PLACE = "TAMILNADU"
 <a href="https://mobile.twitter.com/kjamelsingh"><img src="https://media.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif"width="80" height="80"</h1>
 
 
-<p align="center"> Visitor Count </br><style="margin:10px;" align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg" alt="jamelsingh"theme=chartreuse-dark"/></p>
+<h1 align="center"> Visitor Count </br><style="margin:10px;"align="center"><img align="center" src="https://profile-counter.glitch.me/{jamelsingh}/count.svg"alt="jamelsingh"theme=chartreuse-dark"/></h3>
 
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sjai37ozrfvr4mgmkafk5tv3uy&cover_image=true&theme=novatorem">
