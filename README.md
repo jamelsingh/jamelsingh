@@ -48,4 +48,5 @@ PLACE = "TAMILNADU"
 ## <div align="center"><samp> MY [repositories](https://github.com/jamelsingh?tab=repositories)</samp></div>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/1227273073"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
+  <a href="https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=LtmIcADjQPqtXyCzQd1k2A"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
+https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=WV-3aVl5TOOwGAMcnzKw6w&utm_source=copy-link
