@@ -49,4 +49,3 @@ PLACE = "TAMILNADU"
 
 <p align="center">
   <a href="https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=LtmIcADjQPqtXyCzQd1k2A"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
-https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=WV-3aVl5TOOwGAMcnzKw6w&utm_source=copy-link
