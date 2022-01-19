@@ -2,7 +2,7 @@
 <h3 align="center">WELCOME TO MY PROFILE.</h3>
 
  
-<h3 align="center">HELLO<img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif"width="70" height="60">I'm JAMELSIΝᏀᎻ</h>
+<h3 align="center">HELLO<img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif"width="70" height="60">I'm JAMELSIΝᏀᎻ</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=WELCOME+TO+MY+PROFILE;Iam+JAMELSINGH;Iam+not+a+programer;From+INDIA+TN)](https://git.io/typing-svg)
