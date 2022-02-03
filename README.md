@@ -3,7 +3,7 @@
 
 <h3 align="center">HELLO<img src="https://media.giphy.com/media/xUPGcGbvq1sVjsPHGw/giphy.gif"width="70" height="60">I'm JAMELSIΝᏀᎻ</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5001&center=true&lines=ஹாய்+என்+பெயர்+ஜாமல்+சிங்;என்+ஹிட்ஹப்+புரோபைலிற்கு;அன்புடன்+வரவேற்க்கிறேன்)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5001&center=true&lines=ஹாய்+என்+பெயர்+ஜமல்+சிங்;என்+ஹிட்ஹப்+புரோபைலிற்கு;அன்புடன்+வரவேற்க்கிறேன்)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=WELCOME+TO+MY+PROFILE;Iam+JAMELSINGH;Iam+not+a+programer;From+INDIA+TN)](https://git.io/typing-svg)
 
 
