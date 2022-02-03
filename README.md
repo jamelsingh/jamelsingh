@@ -20,8 +20,7 @@ PLACE = "TAMILNADU"
 <a href="https://github.com/jamelsingh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jamelsingh"></a>
   
-
-
+[![Sparkline](https://stars.medv.io/jamelsingh/Jamelsingh.svg)](https://stars.medv.io/jamelsingh/jamelsingh)
 
 ## 📊 My Github Stats
    <br/><a href="https://github.com/jamelsingh/github-readme-stats"><img alt="jamelsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jamelsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D2117" /></a>
