@@ -30,6 +30,9 @@ PLACE = "TAMILNADU"
          <p align="center"><a href="https://open.spotify.com/user/3125mdcdldibztgvp4gv5gojr2tm?si=LtmIcADjQPqtXyCzQd1k2A"><img src="https://novatorem-pi-six.vercel.app/api/spotify"/></a></p>
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://ko-fi.com/jamelsingh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/jamelsingh" /></a></p><br><br>
+
 ## 📱Contact me
 
 <h1 align="left">
